@@ -1,6 +1,6 @@
 ### Todo Application
 
-Pet-project for learning ReactJS. Done.
+Application for learning ReactJS. Done.
 
 To start the application:
 
